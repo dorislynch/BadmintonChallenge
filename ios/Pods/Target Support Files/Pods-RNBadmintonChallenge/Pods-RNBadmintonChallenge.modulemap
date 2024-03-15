@@ -1,0 +1,6 @@
+framework module Pods_RNBadmintonChallenge {
+  umbrella header "Pods-RNBadmintonChallenge-umbrella.h"
+
+  export *
+  module * { export * }
+}
